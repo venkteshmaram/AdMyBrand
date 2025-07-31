@@ -49,3 +49,29 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+
+
+
+## AI Usage Report
+### AI Tools Used
+- Primary tools: Lovable AI, Cursor, 21st Dev, Dribble, Gemini
+- Key use cases:
+    - Lovable AI: Basic landing page creation
+    - Cursor: Impressive UI and debugging
+    - 21st Dev: UI references and components
+    - Dribble: Ideation
+    - Gemini: Creating hero section images
+
+### Sample Prompts (3-4 examples)
+1. "Create a modern, dark-themed hero section for an AI suite landing page, featuring a prominent call-to-action button and a subtle animated background."
+2. "Design a responsive pricing section with three tiers (Basic, Pro, Enterprise), highlighting key features and a clear call-to-action for each."
+3. "Generate a testimonial carousel component using React and Tailwind CSS, with autoplay and navigation controls."
+4. "Develop an interactive pricing calculator with sliders for user input and real-time cost updates."
+
+
+
+
+### AI vs Manual Work Split
+- AI-generated: Mostly done with AI (Lovable AI and Cursor).
+- Manual work: Minor adjustments and customizations.
+- Customization: If confused, I show a reference image or provide a detailed prompt. AI usually hallucinates, so I break tasks into sub-tasks.I have continuously explored AI tools and LLMs, so it's not that tough for me. I know how to get and adapt to get desired results.
