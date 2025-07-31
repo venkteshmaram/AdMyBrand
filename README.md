@@ -75,3 +75,8 @@ This project is built with:
 - AI-generated: Mostly done with AI (Lovable AI and Cursor).
 - Manual work: Minor adjustments and customizations.
 - Customization: If confused, I show a reference image or provide a detailed prompt. AI usually hallucinates, so I break tasks into sub-tasks.I have continuously explored AI tools and LLMs, so it's not that tough for me. I know how to get and adapt to get desired results.
+
+
+
+
+visit  : https://admybrandtask.netlify.app/
